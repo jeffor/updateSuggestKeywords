@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Main-Class: update_suggestion.Mainimport
+Class-Path: ./class/commons-httpclient-3.1.jar 
+ ./class/commons-io-2.3.jar 
+ ./class/httpclient-4.3.1.jar 
+ ./class/httpcore-4.3.jar 
+ ./class/httpmime-4.3.1.jar 
+ ./class/index.jar 
+ ./class/jcl-over-slf4j-1.7.6.jar 
+ ./class/jul-to-slf4j-1.7.6.jar 
+ ./class/log4j-1.2.17.jar 
+ ./class/noggit-0.5.jar  
+ ./class/slf4j-api-1.7.6.jar 
+ ./class/slf4j-log4j12-1.7.6.jar 
+ ./class/solr-solrj-4.9.0.jar 
+ ./class/wstx-asl-3.2.7.jar 
+ ./class/zookeeper-3.4.6.jar 
+ ./class/mysql-connector-java-5.1.30-bin.jar 
+
